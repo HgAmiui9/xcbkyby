@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: custom
-  theme_night: custom
+  theme_day: minimal
+  theme_night: Mr Robot
   font: minimal
   font_size: L
 
@@ -31,7 +31,7 @@ marketing:
 
 header:
   navbar:
-    enable: false
+    enable: true
     align: r
     show_logo: false
     show_language: false
@@ -67,7 +67,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/HgAmiui9/xcbkyby'
     content_dir: content
     branch: main
   avatar:
